@@ -8,7 +8,7 @@ namespace Coba
 {
     class Data
     {
-        private string[] myData = { "Hai Jugaaaaa", "Cecil Kak", "17 Tahun kak", "lagi mikirin kakak. Cieeee :)" };
+        private string[] myData = { "Hai Jugaaaaaa", "Cecil Kak", "17 Tahun kak", "lagi mikirin kakak. Cieeee :)" };
         private string final;
 
         public string proses(string text)
